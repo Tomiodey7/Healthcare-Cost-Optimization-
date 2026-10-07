@@ -13,13 +13,6 @@
 ## Key Insights (from screenshot)
 <img width="814" height="254" alt="EDA-results" src="https://github.com/user-attachments/assets/b3604775-8c54-44a7-b719-fb97edcb91fa" />
 
-- Final shape: (55074, 16)
-- Total Revenue: $1,417,297,313
-- Avg Billing: $25,734 | Avg LOS: 15.5 days
-- Hospital variance = standardization opportunity
-
-
-
 ## Files
 - `healthcare_clean.csv` - cleaned
 - `Healthcare dataset.ipynb` - full cleaning + EDA
