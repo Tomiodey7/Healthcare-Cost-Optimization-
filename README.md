@@ -18,3 +18,5 @@
 - `Healthcare dataset (1).ipynb` - full cleaning + EDA
 ## Data Preview(cleaned)
 <img width="1349" height="351" alt="Data Preview" src="https://github.com/user-attachments/assets/6aa149ac-d35f-4778-8a3a-38aaec0f05c4" />
+## Dashboard Link
+https://public.tableau.com/views/Healthcare_17913900517920/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
